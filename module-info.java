@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author evija
- *
- */
-module Anitha {
-}
